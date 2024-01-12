@@ -1,5 +1,4 @@
-html
-{
+html {
     scroll-behavior: smooth;
 }
 
@@ -9,9 +8,7 @@ header {
     margin-bottom: 50px;
 }
 
-nav{
-  
-}
+nav {}
 
 ul {
     display: flex;
@@ -24,19 +21,16 @@ a {
     font-size: 18px;
 }
 
-#navigation
-{
-margin-left: 70px;
+#navigation {
+    margin-left: 70px;
 }
 
-#navigation a 
-{
+#navigation a {
     font-size: 15px;
 }
 
 
-#video
-{
+#video {
     width: 100%;
     height: auto;
     display: flex;
@@ -44,8 +38,7 @@ margin-left: 70px;
     gap: 15px;
 }
 
-#Description p 
-{
+#Description p {
     padding: 0px 40px;
-font-size: 20px;
+    font-size: 20px;
 }
